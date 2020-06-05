@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to [Insert Project Name Here]
 
 You can use the [editor on GitHub](https://github.com/ghee61/courseratest/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
